@@ -1,6 +1,6 @@
-#**Finding Lane Lines on the Road**
+# **Finding Lane Lines on the Road**
 
-###1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
+## 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 My pipeline consists of five steps:
 1. Convert the input image into grayscale.
 2. Apply Gussian smoothing on the grayscale. The size of the Gussian kernel is set to 5.
